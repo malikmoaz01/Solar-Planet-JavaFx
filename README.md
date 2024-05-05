@@ -4,9 +4,9 @@
 
 
 # Functionalities
-**Next Button** <> For next pic of planet
-**PreviousButton** <> For Previous Planet
-**Switch to Quiz** For Quiz preparation of planet 
+# **Next Button** <> For next pic of planet
+# **PreviousButton** <> For Previous Planet
+# **Switch to Quiz** For Quiz preparation of planet 
 
 
 # How to Run
